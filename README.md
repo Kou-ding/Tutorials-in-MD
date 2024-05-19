@@ -1,5 +1,6 @@
 ### Tutorials related to:
 
-- linux
-- kali linux
-- real time embedded systems
+- Linux
+- kali Linux
+- real-time embedded systems
+- crypto mining
