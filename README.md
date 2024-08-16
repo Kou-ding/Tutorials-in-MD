@@ -2,5 +2,5 @@
 
 - Linux
 - kali Linux
-- real-time embedded systems
+- cross compilation
 - crypto mining
