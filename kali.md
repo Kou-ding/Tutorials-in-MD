@@ -90,7 +90,6 @@ aircrack-ng hack1-01.cap -w /usr/share/wordlists/rockyou.txt
 
 
 ## TP-Link adapter for WLAN hacking (Monitor mode & packet injection mode) 
-
 #### New updated method is just using $sudo apt install -y realtek-rtl8188eus-dkms
 !Use these commands to get the adapter working on Kali for packet injection and monitoring:
 !Commands:
@@ -135,6 +134,9 @@ sudo ifconfig wlan0 up
 iwconfig                             
 sudo aireplay-ng --test wlan0
 ```
+Source from github
+------------------
+- https://github.com/c4rb0nx1/Tp-Link-TL-WN722N-in-kali-linux
 
 ## Kali's Default Credentials
 Kali changed to a non-root user policy by default since the release of 2020.1.
